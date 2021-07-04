@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "_id": 1,
+      "name": "Black Tshirt",
+      "img": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmxhY2slMjB0c2hpcnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "price": 999,
+      "size": "M",
+      "idealFor": "Men",
+      "brand": "Levis"
+    },
+    {
+      "_id": 2,
+      "name": "White Tshirt",
+      "img": "https://images.unsplash.com/photo-1574180566232-aaad1b5b8450?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2hpdGUlMjB0c2hpcnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem Ipsum has been the industry's standard dummy",
+      "price": 750,
+      "size": "M",
+      "idealFor": "Men",
+      "brand": "Levis"
+    },
+    {
+      "_id": 3,
+      "name": "Crop top",
+      "img": "https://images.unsplash.com/photo-1603217040208-56131869e0e9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3JvcCUyMHRvcHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 599,
+      "size": "M",
+      "idealFor": "Women",
+      "brand": "Zara"
+    },
+    {
+      "_id": 4,
+      "name": "Jump suit",
+      "img": "https://images.unsplash.com/photo-1521265475587-4dba6b215a4a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8anVtcHN1aXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem Ipsum is simply dummy text of the printin the industry's standard dummy",
+      "price": 1299,
+      "size": "L",
+      "idealFor": "Women",
+      "brand": "Levis"
+    },
+    {
+      "_id": 5,
+      "name": "Blue denim jeans",
+      "img": "https://images.unsplash.com/photo-1587142198902-27b362ec78e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Ymx1ZSUyMGRlbmltJTIwamVhbnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 2999,
+      "size": "L",
+      "idealFor": "Women",
+      "brand": "Wrangler"
+    },
+    {
+      "_id": 6,
+      "name": "One piece red",
+      "img": "https://images.unsplash.com/photo-1572804013854-26c537be296e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29tZW4lMjBkcmVzc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "price": 1500,
+      "size": "S",
+      "idealFor": "Women",
+      "brand": "Diesel"
+    }
+  ]
+}
